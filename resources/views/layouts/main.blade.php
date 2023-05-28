@@ -25,11 +25,11 @@
                 </li>
             </ul>
 
-            <div class="flex items-center">
-                <div class="relative">
+            <div class="flex flex-col items-center md:flex-row ">
+                <div class="relative mt-3 md:mt-0">
                     <input type="text" class="bg-gray-800 rounded-full pl-8 focus:outline-none  focus:shadow-outline w-64 px-4 py-1" placeholder="Search">
                 </div>
-                <div class="ml-4">
+                <div class=" md:ml-4 mt-3 ml-4">
                     <a href="#">
                         <img src="https://www.dmarge.com/wp-content/uploads/2021/01/dwayne-the-rock-.jpg" alt="avatar" class="rounded-full w-8 h-8">
                     </a>
