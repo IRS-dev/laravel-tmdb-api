@@ -4,7 +4,7 @@
     {{-- Popular Movie --}}
     <div class="popular-movies">
         <h2 class="uppercase tracking-wider text-orange-500 text-lg font-semibold">Popular Movie</h2>
-        <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
+    <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
         <div id="movie-card">
             <div class="mt-8">
                 <a href="#">
